@@ -1,1 +1,1 @@
-Games written with Java code
+Simple GAMES written with Java code
