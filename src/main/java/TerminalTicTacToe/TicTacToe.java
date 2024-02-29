@@ -1,4 +1,4 @@
-package TicTacToe;
+package TerminalTicTacToe;
 
 import java.util.*;
 
